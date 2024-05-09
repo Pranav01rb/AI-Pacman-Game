@@ -30,7 +30,7 @@ This is will run the Desired agent on the desired layout for 1 run.
 11) trickyClassic
 
 
-The t_test.py file comtains the script to perform the Paired Student T-Test.
+The t_test.py file contains the script to perform the Paired Student T-Test.
 It uses the Shapiro-Wilk test to verify the normality of the score distributions and then conduct paired Student’s T-tests. Based on the computational resources available we can change the number of runs to 100. 
 To run t_test.py
 python t_test.py
