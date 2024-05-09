@@ -6,7 +6,7 @@ In MCTSAgentB for part B, there is also a line commented for choosing randomActi
 This file also has other agents like Minimax, Expectimax, AlphaBeta and Reflex Agent.
 In order to run the Search Agent, we have to run the command
 
-python pacman.py --frameTime 0 -p <AGENT NAME>  -l <LAYOUT NAME> 
+python pacman.py --frameTime 0 -p "AGENT NAME"  -l "LAYOUT NAME" 
 
 This is will run the Desired agent on the desired layout for 1 run.
 
